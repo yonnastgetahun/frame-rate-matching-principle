@@ -2,7 +2,7 @@
 
 **Video Signal Extraction Reliability Across Frame Rates**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18274658.svg)](https://doi.org/10.5281/zenodo.18274658)
 [![Pre-registration](https://img.shields.io/badge/OSF-Pre--registered-blue)](https://osf.io/8jz3b)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -107,7 +107,7 @@ This study was pre-registered on OSF: [https://osf.io/8jz3b](https://osf.io/8jz3
   publisher    = {GitHub},
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/yonnastgetahun/frame-rate-matching-principle}},
-  doi          = {10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.18274658}
 }
 ```
 
